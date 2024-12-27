@@ -1,15 +1,9 @@
-# Personal Brand Website
+# Personal Brand Website - Juan Bautista Martínez
 
-Built with SvelteKit and Juno.build. Features a minimalist design focused on content and user experience.
+Built with SvelteKit and Juno.build.
 
-## Tech Stack
-- Frontend: SvelteKit
-- Backend: Juno.build
-- Styling: TailwindCSS
-- Animations: Svelte transitions
-
-## Features
-- Responsive design
-- Smooth animations
-- Modern minimalist UI
-- Dark/Light mode support
+## Stack
+- SvelteKit
+- Juno.build
+- TailwindCSS
+- Vite
