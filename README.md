@@ -6,4 +6,6 @@ Built with SvelteKit and Juno.build.
 - SvelteKit
 - Juno.build
 - TailwindCSS
-- Vite
+- Vite\
+
+Any files ?
